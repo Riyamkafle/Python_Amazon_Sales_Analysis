@@ -1,2 +1,2 @@
 # Python_Amazon_Sales_Analysis
-Python data analysis of Amazon sales data focusing on cleaning, EDA, and sales trend insights.
+Raw Amazon sales data serving as the primary dataset for exploratory data analysis and sales insights using Python.
